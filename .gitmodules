@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Deepiika8080/backend.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Deepiika8080/client.git
